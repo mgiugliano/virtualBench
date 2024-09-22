@@ -1,0 +1,28 @@
+[project]
+authors = ["Michele Giugliano <9309421+mgiugliano@users.noreply.github.com>"]
+channels = ["conda-forge"]
+description = "Simulated Experiments with NEURON and BBP rat S1 neuron models"
+name = "virtualBench"
+platforms =  ["osx-arm64"]
+version = "0.1.0"
+
+
+# TASKS
+[tasks]
+setup = "bash ./pvt/setup.sh"
+pick = "bash ./pvt/pick.sh"
+dc = "bash ./pvt/dc.sh"
+cc = "bash ./pvt/cc.sh"
+sweep = "bash ./pvt/generate_commands.sh"
+
+
+
+[dependencies]
+python = ">=3.12.6,<4"
+numpy = ">=2.1.1,<3"
+matplotlib = ">=3.9.2,<4"
+parallel = ">=20240722,<20240723"
+fzf = ">=0.55.0,<0.56"
+
+[pypi-dependencies]
+neuron = ">=8.2.4, <9"

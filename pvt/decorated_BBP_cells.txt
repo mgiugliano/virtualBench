@@ -1,0 +1,1035 @@
+L1_DAC_bNAC219_1 ::: Layer 1 -- [i] Descending Axon c. -- Burst Non-accommodating
+L1_DAC_bNAC219_2 ::: Layer 1 -- [i] Descending Axon c. -- Burst Non-accommodating
+L1_DAC_bNAC219_3 ::: Layer 1 -- [i] Descending Axon c. -- Burst Non-accommodating
+L1_DAC_bNAC219_4 ::: Layer 1 -- [i] Descending Axon c. -- Burst Non-accommodating
+L1_DAC_bNAC219_5 ::: Layer 1 -- [i] Descending Axon c. -- Burst Non-accommodating
+L1_DAC_cNAC187_1 ::: Layer 1 -- [i] Descending Axon c. -- Continuous Non-accommodating
+L1_DAC_cNAC187_2 ::: Layer 1 -- [i] Descending Axon c. -- Continuous Non-accommodating
+L1_DAC_cNAC187_3 ::: Layer 1 -- [i] Descending Axon c. -- Continuous Non-accommodating
+L1_DAC_cNAC187_4 ::: Layer 1 -- [i] Descending Axon c. -- Continuous Non-accommodating
+L1_DAC_cNAC187_5 ::: Layer 1 -- [i] Descending Axon c. -- Continuous Non-accommodating
+L1_DLAC_cNAC187_1 ::: Layer 1 -- [i] Dense Local Arborizing c. -- Continuous Non-accommodating
+L1_DLAC_cNAC187_2 ::: Layer 1 -- [i] Dense Local Arborizing c. -- Continuous Non-accommodating
+L1_DLAC_cNAC187_3 ::: Layer 1 -- [i] Dense Local Arborizing c. -- Continuous Non-accommodating
+L1_DLAC_cNAC187_4 ::: Layer 1 -- [i] Dense Local Arborizing c. -- Continuous Non-accommodating
+L1_DLAC_cNAC187_5 ::: Layer 1 -- [i] Dense Local Arborizing c. -- Continuous Non-accommodating
+L1_HAC_bNAC219_1 ::: Layer 1 -- [i] Horizontal Axon c. -- Burst Non-accommodating
+L1_HAC_bNAC219_2 ::: Layer 1 -- [i] Horizontal Axon c. -- Burst Non-accommodating
+L1_HAC_bNAC219_3 ::: Layer 1 -- [i] Horizontal Axon c. -- Burst Non-accommodating
+L1_HAC_bNAC219_4 ::: Layer 1 -- [i] Horizontal Axon c. -- Burst Non-accommodating
+L1_HAC_bNAC219_5 ::: Layer 1 -- [i] Horizontal Axon c. -- Burst Non-accommodating
+L1_HAC_cIR216_1 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Irregular
+L1_HAC_cIR216_2 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Irregular
+L1_HAC_cIR216_3 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Irregular
+L1_HAC_cIR216_4 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Irregular
+L1_HAC_cIR216_5 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Irregular
+L1_HAC_cNAC187_1 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Non-accommodating
+L1_HAC_cNAC187_2 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Non-accommodating
+L1_HAC_cNAC187_3 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Non-accommodating
+L1_HAC_cNAC187_4 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Non-accommodating
+L1_HAC_cNAC187_5 ::: Layer 1 -- [i] Horizontal Axon c. -- Continuous Non-accommodating
+L1_NGC-DA_bNAC219_1 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Burst Non-accommodating
+L1_NGC-DA_bNAC219_2 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Burst Non-accommodating
+L1_NGC-DA_bNAC219_3 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Burst Non-accommodating
+L1_NGC-DA_bNAC219_4 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Burst Non-accommodating
+L1_NGC-DA_bNAC219_5 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Burst Non-accommodating
+L1_NGC-DA_cACint209_1 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Accommodating
+L1_NGC-DA_cACint209_2 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Accommodating
+L1_NGC-DA_cACint209_3 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Accommodating
+L1_NGC-DA_cACint209_4 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Accommodating
+L1_NGC-DA_cACint209_5 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Accommodating
+L1_NGC-DA_cNAC187_1 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Non-accommodating
+L1_NGC-DA_cNAC187_2 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Non-accommodating
+L1_NGC-DA_cNAC187_3 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Non-accommodating
+L1_NGC-DA_cNAC187_4 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Non-accommodating
+L1_NGC-DA_cNAC187_5 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Non-accommodating
+L1_NGC-DA_cSTUT189_1 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Stuttering
+L1_NGC-DA_cSTUT189_2 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Stuttering
+L1_NGC-DA_cSTUT189_3 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Stuttering
+L1_NGC-DA_cSTUT189_4 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Stuttering
+L1_NGC-DA_cSTUT189_5 ::: Layer 1 -- [i] Neurogliaform c. with dense axonal arborization -- Continuous Stuttering
+L1_NGC-SA_cNAC187_1 ::: Layer 1 -- [i] Neurogliaform c. with slender axonal arborization -- Continuous Non-accommodating
+L1_NGC-SA_cNAC187_2 ::: Layer 1 -- [i] Neurogliaform c. with slender axonal arborization -- Continuous Non-accommodating
+L1_NGC-SA_cNAC187_3 ::: Layer 1 -- [i] Neurogliaform c. with slender axonal arborization -- Continuous Non-accommodating
+L1_NGC-SA_cNAC187_4 ::: Layer 1 -- [i] Neurogliaform c. with slender axonal arborization -- Continuous Non-accommodating
+L1_NGC-SA_cNAC187_5 ::: Layer 1 -- [i] Neurogliaform c. with slender axonal arborization -- Continuous Non-accommodating
+L1_SLAC_bNAC219_1 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Burst Non-accommodating
+L1_SLAC_bNAC219_2 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Burst Non-accommodating
+L1_SLAC_bNAC219_3 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Burst Non-accommodating
+L1_SLAC_bNAC219_4 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Burst Non-accommodating
+L1_SLAC_bNAC219_5 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Burst Non-accommodating
+L1_SLAC_cACint209_1 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Accommodating
+L1_SLAC_cACint209_2 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Accommodating
+L1_SLAC_cACint209_3 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Accommodating
+L1_SLAC_cACint209_4 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Accommodating
+L1_SLAC_cACint209_5 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Accommodating
+L1_SLAC_cNAC187_1 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Non-accommodating
+L1_SLAC_cNAC187_2 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Non-accommodating
+L1_SLAC_cNAC187_3 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Non-accommodating
+L1_SLAC_cNAC187_4 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Non-accommodating
+L1_SLAC_cNAC187_5 ::: Layer 1 -- [i] Sparse Local Arborizing c. -- Continuous Non-accommodating
+L23_BP_bAC217_1 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Accommodating
+L23_BP_bAC217_2 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Accommodating
+L23_BP_bAC217_3 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Accommodating
+L23_BP_bAC217_4 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Accommodating
+L23_BP_bAC217_5 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Accommodating
+L23_BP_bIR215_1 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Irregular
+L23_BP_bIR215_2 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Irregular
+L23_BP_bIR215_3 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Irregular
+L23_BP_bIR215_4 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Irregular
+L23_BP_bIR215_5 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Irregular
+L23_BP_bNAC219_1 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Non-accommodating
+L23_BP_bNAC219_2 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Non-accommodating
+L23_BP_bNAC219_3 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Non-accommodating
+L23_BP_bNAC219_4 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Non-accommodating
+L23_BP_bNAC219_5 ::: Layer 2/3 -- [i] Bipolar c. -- Burst Non-accommodating
+L23_BP_cACint209_1 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Accommodating
+L23_BP_cACint209_2 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Accommodating
+L23_BP_cACint209_3 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Accommodating
+L23_BP_cACint209_4 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Accommodating
+L23_BP_cACint209_5 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Accommodating
+L23_BP_cNAC187_1 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Non-accommodating
+L23_BP_cNAC187_2 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Non-accommodating
+L23_BP_cNAC187_3 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Non-accommodating
+L23_BP_cNAC187_4 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Non-accommodating
+L23_BP_cNAC187_5 ::: Layer 2/3 -- [i] Bipolar c. -- Continuous Non-accommodating
+L23_BP_dSTUT214_1 ::: Layer 2/3 -- [i] Bipolar c. -- Delayed Stuttering
+L23_BP_dSTUT214_2 ::: Layer 2/3 -- [i] Bipolar c. -- Delayed Stuttering
+L23_BP_dSTUT214_3 ::: Layer 2/3 -- [i] Bipolar c. -- Delayed Stuttering
+L23_BP_dSTUT214_4 ::: Layer 2/3 -- [i] Bipolar c. -- Delayed Stuttering
+L23_BP_dSTUT214_5 ::: Layer 2/3 -- [i] Bipolar c. -- Delayed Stuttering
+L23_BTC_bAC217_1 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Accommodating
+L23_BTC_bAC217_2 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Accommodating
+L23_BTC_bAC217_3 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Accommodating
+L23_BTC_bAC217_4 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Accommodating
+L23_BTC_bAC217_5 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Accommodating
+L23_BTC_bIR215_1 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Irregular
+L23_BTC_bIR215_2 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Irregular
+L23_BTC_bIR215_3 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Irregular
+L23_BTC_bIR215_4 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Irregular
+L23_BTC_bIR215_5 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Irregular
+L23_BTC_bNAC219_1 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Non-accommodating
+L23_BTC_bNAC219_2 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Non-accommodating
+L23_BTC_bNAC219_3 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Non-accommodating
+L23_BTC_bNAC219_4 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Non-accommodating
+L23_BTC_bNAC219_5 ::: Layer 2/3 -- [i] Bitufted c. -- Burst Non-accommodating
+L23_BTC_cACint209_1 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Accommodating
+L23_BTC_cACint209_2 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Accommodating
+L23_BTC_cACint209_3 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Accommodating
+L23_BTC_cACint209_4 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Accommodating
+L23_BTC_cACint209_5 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Accommodating
+L23_BTC_cNAC187_1 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Non-accommodating
+L23_BTC_cNAC187_2 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Non-accommodating
+L23_BTC_cNAC187_3 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Non-accommodating
+L23_BTC_cNAC187_4 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Non-accommodating
+L23_BTC_cNAC187_5 ::: Layer 2/3 -- [i] Bitufted c. -- Continuous Non-accommodating
+L23_ChC_cACint209_1 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Accommodating
+L23_ChC_cACint209_2 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Accommodating
+L23_ChC_cACint209_3 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Accommodating
+L23_ChC_cACint209_4 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Accommodating
+L23_ChC_cACint209_5 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Accommodating
+L23_ChC_cNAC187_1 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Non-accommodating
+L23_ChC_cNAC187_2 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Non-accommodating
+L23_ChC_cNAC187_3 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Non-accommodating
+L23_ChC_cNAC187_4 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Non-accommodating
+L23_ChC_cNAC187_5 ::: Layer 2/3 -- [i] Chandelier c. -- Continuous Non-accommodating
+L23_ChC_dNAC222_1 ::: Layer 2/3 -- [i] Chandelier c. -- Delayed Non-accommodating
+L23_ChC_dNAC222_2 ::: Layer 2/3 -- [i] Chandelier c. -- Delayed Non-accommodating
+L23_ChC_dNAC222_3 ::: Layer 2/3 -- [i] Chandelier c. -- Delayed Non-accommodating
+L23_ChC_dNAC222_4 ::: Layer 2/3 -- [i] Chandelier c. -- Delayed Non-accommodating
+L23_ChC_dNAC222_5 ::: Layer 2/3 -- [i] Chandelier c. -- Delayed Non-accommodating
+L23_DBC_bAC217_1 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Accommodating
+L23_DBC_bAC217_2 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Accommodating
+L23_DBC_bAC217_3 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Accommodating
+L23_DBC_bAC217_4 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Accommodating
+L23_DBC_bAC217_5 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Accommodating
+L23_DBC_bIR215_1 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Irregular
+L23_DBC_bIR215_2 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Irregular
+L23_DBC_bIR215_3 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Irregular
+L23_DBC_bIR215_4 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Irregular
+L23_DBC_bIR215_5 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Irregular
+L23_DBC_bNAC219_1 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L23_DBC_bNAC219_2 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L23_DBC_bNAC219_3 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L23_DBC_bNAC219_4 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L23_DBC_bNAC219_5 ::: Layer 2/3 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L23_DBC_cACint209_1 ::: Layer 2/3 -- [i] Double Bouquet c. -- Continuous Accommodating
+L23_DBC_cACint209_2 ::: Layer 2/3 -- [i] Double Bouquet c. -- Continuous Accommodating
+L23_DBC_cACint209_3 ::: Layer 2/3 -- [i] Double Bouquet c. -- Continuous Accommodating
+L23_DBC_cACint209_4 ::: Layer 2/3 -- [i] Double Bouquet c. -- Continuous Accommodating
+L23_DBC_cACint209_5 ::: Layer 2/3 -- [i] Double Bouquet c. -- Continuous Accommodating
+L23_LBC_bAC217_1 ::: Layer 2/3 -- [i] Large basket c. -- Burst Accommodating
+L23_LBC_bAC217_2 ::: Layer 2/3 -- [i] Large basket c. -- Burst Accommodating
+L23_LBC_bAC217_3 ::: Layer 2/3 -- [i] Large basket c. -- Burst Accommodating
+L23_LBC_bAC217_4 ::: Layer 2/3 -- [i] Large basket c. -- Burst Accommodating
+L23_LBC_bAC217_5 ::: Layer 2/3 -- [i] Large basket c. -- Burst Accommodating
+L23_LBC_bNAC219_1 ::: Layer 2/3 -- [i] Large basket c. -- Burst Non-accommodating
+L23_LBC_bNAC219_2 ::: Layer 2/3 -- [i] Large basket c. -- Burst Non-accommodating
+L23_LBC_bNAC219_3 ::: Layer 2/3 -- [i] Large basket c. -- Burst Non-accommodating
+L23_LBC_bNAC219_4 ::: Layer 2/3 -- [i] Large basket c. -- Burst Non-accommodating
+L23_LBC_bNAC219_5 ::: Layer 2/3 -- [i] Large basket c. -- Burst Non-accommodating
+L23_LBC_cACint209_1 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Accommodating
+L23_LBC_cACint209_2 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Accommodating
+L23_LBC_cACint209_3 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Accommodating
+L23_LBC_cACint209_4 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Accommodating
+L23_LBC_cACint209_5 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Accommodating
+L23_LBC_cNAC187_1 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Non-accommodating
+L23_LBC_cNAC187_2 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Non-accommodating
+L23_LBC_cNAC187_3 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Non-accommodating
+L23_LBC_cNAC187_4 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Non-accommodating
+L23_LBC_cNAC187_5 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Non-accommodating
+L23_LBC_cSTUT189_1 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Stuttering
+L23_LBC_cSTUT189_2 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Stuttering
+L23_LBC_cSTUT189_3 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Stuttering
+L23_LBC_cSTUT189_4 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Stuttering
+L23_LBC_cSTUT189_5 ::: Layer 2/3 -- [i] Large basket c. -- Continuous Stuttering
+L23_LBC_dNAC222_1 ::: Layer 2/3 -- [i] Large basket c. -- Delayed Non-accommodating
+L23_LBC_dNAC222_2 ::: Layer 2/3 -- [i] Large basket c. -- Delayed Non-accommodating
+L23_LBC_dNAC222_3 ::: Layer 2/3 -- [i] Large basket c. -- Delayed Non-accommodating
+L23_LBC_dNAC222_4 ::: Layer 2/3 -- [i] Large basket c. -- Delayed Non-accommodating
+L23_LBC_dNAC222_5 ::: Layer 2/3 -- [i] Large basket c. -- Delayed Non-accommodating
+L23_MC_bAC217_1 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Accommodating
+L23_MC_bAC217_2 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Accommodating
+L23_MC_bAC217_3 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Accommodating
+L23_MC_bAC217_4 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Accommodating
+L23_MC_bAC217_5 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Accommodating
+L23_MC_bNAC219_1 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Non-accommodating
+L23_MC_bNAC219_2 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Non-accommodating
+L23_MC_bNAC219_3 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Non-accommodating
+L23_MC_bNAC219_4 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Non-accommodating
+L23_MC_bNAC219_5 ::: Layer 2/3 -- [i] Martinotti c. -- Burst Non-accommodating
+L23_MC_cACint209_1 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Accommodating
+L23_MC_cACint209_2 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Accommodating
+L23_MC_cACint209_3 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Accommodating
+L23_MC_cACint209_4 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Accommodating
+L23_MC_cACint209_5 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Accommodating
+L23_MC_cNAC187_1 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Non-accommodating
+L23_MC_cNAC187_2 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Non-accommodating
+L23_MC_cNAC187_3 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Non-accommodating
+L23_MC_cNAC187_4 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Non-accommodating
+L23_MC_cNAC187_5 ::: Layer 2/3 -- [i] Martinotti c. -- Continuous Non-accommodating
+L23_MC_dNAC222_1 ::: Layer 2/3 -- [i] Martinotti c. -- Delayed Non-accommodating
+L23_MC_dNAC222_2 ::: Layer 2/3 -- [i] Martinotti c. -- Delayed Non-accommodating
+L23_MC_dNAC222_3 ::: Layer 2/3 -- [i] Martinotti c. -- Delayed Non-accommodating
+L23_MC_dNAC222_4 ::: Layer 2/3 -- [i] Martinotti c. -- Delayed Non-accommodating
+L23_MC_dNAC222_5 ::: Layer 2/3 -- [i] Martinotti c. -- Delayed Non-accommodating
+L23_NBC_bAC217_1 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Accommodating
+L23_NBC_bAC217_2 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Accommodating
+L23_NBC_bAC217_3 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Accommodating
+L23_NBC_bAC217_4 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Accommodating
+L23_NBC_bAC217_5 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Accommodating
+L23_NBC_bNAC219_1 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Non-accommodating
+L23_NBC_bNAC219_2 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Non-accommodating
+L23_NBC_bNAC219_3 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Non-accommodating
+L23_NBC_bNAC219_4 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Non-accommodating
+L23_NBC_bNAC219_5 ::: Layer 2/3 -- [i] Nest basket c. -- Burst Non-accommodating
+L23_NBC_cACint209_1 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Accommodating
+L23_NBC_cACint209_2 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Accommodating
+L23_NBC_cACint209_3 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Accommodating
+L23_NBC_cACint209_4 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Accommodating
+L23_NBC_cACint209_5 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Accommodating
+L23_NBC_cIR216_1 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Irregular
+L23_NBC_cIR216_2 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Irregular
+L23_NBC_cIR216_3 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Irregular
+L23_NBC_cIR216_4 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Irregular
+L23_NBC_cIR216_5 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Irregular
+L23_NBC_cNAC187_1 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Non-accommodating
+L23_NBC_cNAC187_2 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Non-accommodating
+L23_NBC_cNAC187_3 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Non-accommodating
+L23_NBC_cNAC187_4 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Non-accommodating
+L23_NBC_cNAC187_5 ::: Layer 2/3 -- [i] Nest basket c. -- Continuous Non-accommodating
+L23_NBC_dNAC222_1 ::: Layer 2/3 -- [i] Nest basket c. -- Delayed Non-accommodating
+L23_NBC_dNAC222_2 ::: Layer 2/3 -- [i] Nest basket c. -- Delayed Non-accommodating
+L23_NBC_dNAC222_3 ::: Layer 2/3 -- [i] Nest basket c. -- Delayed Non-accommodating
+L23_NBC_dNAC222_4 ::: Layer 2/3 -- [i] Nest basket c. -- Delayed Non-accommodating
+L23_NBC_dNAC222_5 ::: Layer 2/3 -- [i] Nest basket c. -- Delayed Non-accommodating
+L23_NGC_bNAC219_1 ::: Layer 2/3 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L23_NGC_bNAC219_2 ::: Layer 2/3 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L23_NGC_bNAC219_3 ::: Layer 2/3 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L23_NGC_bNAC219_4 ::: Layer 2/3 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L23_NGC_bNAC219_5 ::: Layer 2/3 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L23_NGC_cACint209_1 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Accommodating
+L23_NGC_cACint209_2 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Accommodating
+L23_NGC_cACint209_3 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Accommodating
+L23_NGC_cACint209_4 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Accommodating
+L23_NGC_cACint209_5 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Accommodating
+L23_NGC_cNAC187_1 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L23_NGC_cNAC187_2 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L23_NGC_cNAC187_3 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L23_NGC_cNAC187_4 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L23_NGC_cNAC187_5 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L23_NGC_cSTUT189_1 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Stuttering
+L23_NGC_cSTUT189_2 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Stuttering
+L23_NGC_cSTUT189_3 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Stuttering
+L23_NGC_cSTUT189_4 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Stuttering
+L23_NGC_cSTUT189_5 ::: Layer 2/3 -- [i] Neurogliaform c. -- Continuous Stuttering
+L23_PC_cADpyr229_1 ::: Layer 2/3 -- [e] Pyramidal c. -- Continuous Adapting
+L23_PC_cADpyr229_2 ::: Layer 2/3 -- [e] Pyramidal c. -- Continuous Adapting
+L23_PC_cADpyr229_3 ::: Layer 2/3 -- [e] Pyramidal c. -- Continuous Adapting
+L23_PC_cADpyr229_4 ::: Layer 2/3 -- [e] Pyramidal c. -- Continuous Adapting
+L23_PC_cADpyr229_5 ::: Layer 2/3 -- [e] Pyramidal c. -- Continuous Adapting
+L23_SBC_bNAC219_1 ::: Layer 2/3 -- [i] Small basket c. -- Burst Non-accommodating
+L23_SBC_bNAC219_2 ::: Layer 2/3 -- [i] Small basket c. -- Burst Non-accommodating
+L23_SBC_bNAC219_3 ::: Layer 2/3 -- [i] Small basket c. -- Burst Non-accommodating
+L23_SBC_bNAC219_4 ::: Layer 2/3 -- [i] Small basket c. -- Burst Non-accommodating
+L23_SBC_bNAC219_5 ::: Layer 2/3 -- [i] Small basket c. -- Burst Non-accommodating
+L23_SBC_cACint209_1 ::: Layer 2/3 -- [i] Small basket c. -- Continuous Accommodating
+L23_SBC_cACint209_2 ::: Layer 2/3 -- [i] Small basket c. -- Continuous Accommodating
+L23_SBC_cACint209_3 ::: Layer 2/3 -- [i] Small basket c. -- Continuous Accommodating
+L23_SBC_cACint209_4 ::: Layer 2/3 -- [i] Small basket c. -- Continuous Accommodating
+L23_SBC_cACint209_5 ::: Layer 2/3 -- [i] Small basket c. -- Continuous Accommodating
+L23_SBC_dNAC222_1 ::: Layer 2/3 -- [i] Small basket c. -- Delayed Non-accommodating
+L23_SBC_dNAC222_2 ::: Layer 2/3 -- [i] Small basket c. -- Delayed Non-accommodating
+L23_SBC_dNAC222_3 ::: Layer 2/3 -- [i] Small basket c. -- Delayed Non-accommodating
+L23_SBC_dNAC222_4 ::: Layer 2/3 -- [i] Small basket c. -- Delayed Non-accommodating
+L23_SBC_dNAC222_5 ::: Layer 2/3 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_BP_bAC217_1 ::: Layer 4 -- [i] Bipolar c. -- Burst Accommodating
+L4_BP_bAC217_2 ::: Layer 4 -- [i] Bipolar c. -- Burst Accommodating
+L4_BP_bAC217_3 ::: Layer 4 -- [i] Bipolar c. -- Burst Accommodating
+L4_BP_bAC217_4 ::: Layer 4 -- [i] Bipolar c. -- Burst Accommodating
+L4_BP_bAC217_5 ::: Layer 4 -- [i] Bipolar c. -- Burst Accommodating
+L4_BP_bIR215_1 ::: Layer 4 -- [i] Bipolar c. -- Burst Irregular
+L4_BP_bIR215_2 ::: Layer 4 -- [i] Bipolar c. -- Burst Irregular
+L4_BP_bIR215_3 ::: Layer 4 -- [i] Bipolar c. -- Burst Irregular
+L4_BP_bIR215_4 ::: Layer 4 -- [i] Bipolar c. -- Burst Irregular
+L4_BP_bIR215_5 ::: Layer 4 -- [i] Bipolar c. -- Burst Irregular
+L4_BP_bNAC219_1 ::: Layer 4 -- [i] Bipolar c. -- Burst Non-accommodating
+L4_BP_bNAC219_2 ::: Layer 4 -- [i] Bipolar c. -- Burst Non-accommodating
+L4_BP_bNAC219_3 ::: Layer 4 -- [i] Bipolar c. -- Burst Non-accommodating
+L4_BP_bNAC219_4 ::: Layer 4 -- [i] Bipolar c. -- Burst Non-accommodating
+L4_BP_bNAC219_5 ::: Layer 4 -- [i] Bipolar c. -- Burst Non-accommodating
+L4_BP_cACint209_1 ::: Layer 4 -- [i] Bipolar c. -- Continuous Accommodating
+L4_BP_cACint209_2 ::: Layer 4 -- [i] Bipolar c. -- Continuous Accommodating
+L4_BP_cACint209_3 ::: Layer 4 -- [i] Bipolar c. -- Continuous Accommodating
+L4_BP_cACint209_4 ::: Layer 4 -- [i] Bipolar c. -- Continuous Accommodating
+L4_BP_cACint209_5 ::: Layer 4 -- [i] Bipolar c. -- Continuous Accommodating
+L4_BP_cNAC187_1 ::: Layer 4 -- [i] Bipolar c. -- Continuous Non-accommodating
+L4_BP_cNAC187_2 ::: Layer 4 -- [i] Bipolar c. -- Continuous Non-accommodating
+L4_BP_cNAC187_3 ::: Layer 4 -- [i] Bipolar c. -- Continuous Non-accommodating
+L4_BP_cNAC187_4 ::: Layer 4 -- [i] Bipolar c. -- Continuous Non-accommodating
+L4_BP_cNAC187_5 ::: Layer 4 -- [i] Bipolar c. -- Continuous Non-accommodating
+L4_BP_dSTUT214_1 ::: Layer 4 -- [i] Bipolar c. -- Delayed Stuttering
+L4_BP_dSTUT214_2 ::: Layer 4 -- [i] Bipolar c. -- Delayed Stuttering
+L4_BP_dSTUT214_3 ::: Layer 4 -- [i] Bipolar c. -- Delayed Stuttering
+L4_BP_dSTUT214_4 ::: Layer 4 -- [i] Bipolar c. -- Delayed Stuttering
+L4_BP_dSTUT214_5 ::: Layer 4 -- [i] Bipolar c. -- Delayed Stuttering
+L4_BTC_bAC217_1 ::: Layer 4 -- [i] Bitufted c. -- Burst Accommodating
+L4_BTC_bAC217_2 ::: Layer 4 -- [i] Bitufted c. -- Burst Accommodating
+L4_BTC_bAC217_3 ::: Layer 4 -- [i] Bitufted c. -- Burst Accommodating
+L4_BTC_bAC217_4 ::: Layer 4 -- [i] Bitufted c. -- Burst Accommodating
+L4_BTC_bAC217_5 ::: Layer 4 -- [i] Bitufted c. -- Burst Accommodating
+L4_BTC_bIR215_1 ::: Layer 4 -- [i] Bitufted c. -- Burst Irregular
+L4_BTC_bIR215_2 ::: Layer 4 -- [i] Bitufted c. -- Burst Irregular
+L4_BTC_bIR215_3 ::: Layer 4 -- [i] Bitufted c. -- Burst Irregular
+L4_BTC_bIR215_4 ::: Layer 4 -- [i] Bitufted c. -- Burst Irregular
+L4_BTC_bIR215_5 ::: Layer 4 -- [i] Bitufted c. -- Burst Irregular
+L4_BTC_bSTUT213_1 ::: Layer 4 -- [i] Bitufted c. -- Burst Stuttering
+L4_BTC_bSTUT213_2 ::: Layer 4 -- [i] Bitufted c. -- Burst Stuttering
+L4_BTC_bSTUT213_3 ::: Layer 4 -- [i] Bitufted c. -- Burst Stuttering
+L4_BTC_bSTUT213_4 ::: Layer 4 -- [i] Bitufted c. -- Burst Stuttering
+L4_BTC_bSTUT213_5 ::: Layer 4 -- [i] Bitufted c. -- Burst Stuttering
+L4_BTC_cACint209_1 ::: Layer 4 -- [i] Bitufted c. -- Continuous Accommodating
+L4_BTC_cACint209_2 ::: Layer 4 -- [i] Bitufted c. -- Continuous Accommodating
+L4_BTC_cACint209_3 ::: Layer 4 -- [i] Bitufted c. -- Continuous Accommodating
+L4_BTC_cACint209_4 ::: Layer 4 -- [i] Bitufted c. -- Continuous Accommodating
+L4_BTC_cACint209_5 ::: Layer 4 -- [i] Bitufted c. -- Continuous Accommodating
+L4_BTC_cNAC187_1 ::: Layer 4 -- [i] Bitufted c. -- Continuous Non-accommodating
+L4_BTC_cNAC187_2 ::: Layer 4 -- [i] Bitufted c. -- Continuous Non-accommodating
+L4_BTC_cNAC187_3 ::: Layer 4 -- [i] Bitufted c. -- Continuous Non-accommodating
+L4_BTC_cNAC187_4 ::: Layer 4 -- [i] Bitufted c. -- Continuous Non-accommodating
+L4_BTC_cNAC187_5 ::: Layer 4 -- [i] Bitufted c. -- Continuous Non-accommodating
+L4_BTC_dNAC222_1 ::: Layer 4 -- [i] Bitufted c. -- Delayed Non-accommodating
+L4_BTC_dNAC222_2 ::: Layer 4 -- [i] Bitufted c. -- Delayed Non-accommodating
+L4_BTC_dNAC222_3 ::: Layer 4 -- [i] Bitufted c. -- Delayed Non-accommodating
+L4_BTC_dNAC222_4 ::: Layer 4 -- [i] Bitufted c. -- Delayed Non-accommodating
+L4_BTC_dNAC222_5 ::: Layer 4 -- [i] Bitufted c. -- Delayed Non-accommodating
+L4_ChC_cACint209_1 ::: Layer 4 -- [i] Chandelier c. -- Continuous Accommodating
+L4_ChC_cACint209_2 ::: Layer 4 -- [i] Chandelier c. -- Continuous Accommodating
+L4_ChC_cACint209_3 ::: Layer 4 -- [i] Chandelier c. -- Continuous Accommodating
+L4_ChC_cACint209_4 ::: Layer 4 -- [i] Chandelier c. -- Continuous Accommodating
+L4_ChC_cACint209_5 ::: Layer 4 -- [i] Chandelier c. -- Continuous Accommodating
+L4_ChC_cNAC187_1 ::: Layer 4 -- [i] Chandelier c. -- Continuous Non-accommodating
+L4_ChC_cNAC187_2 ::: Layer 4 -- [i] Chandelier c. -- Continuous Non-accommodating
+L4_ChC_cNAC187_3 ::: Layer 4 -- [i] Chandelier c. -- Continuous Non-accommodating
+L4_ChC_cNAC187_4 ::: Layer 4 -- [i] Chandelier c. -- Continuous Non-accommodating
+L4_ChC_cNAC187_5 ::: Layer 4 -- [i] Chandelier c. -- Continuous Non-accommodating
+L4_ChC_dNAC222_1 ::: Layer 4 -- [i] Chandelier c. -- Delayed Non-accommodating
+L4_ChC_dNAC222_2 ::: Layer 4 -- [i] Chandelier c. -- Delayed Non-accommodating
+L4_ChC_dNAC222_3 ::: Layer 4 -- [i] Chandelier c. -- Delayed Non-accommodating
+L4_ChC_dNAC222_4 ::: Layer 4 -- [i] Chandelier c. -- Delayed Non-accommodating
+L4_ChC_dNAC222_5 ::: Layer 4 -- [i] Chandelier c. -- Delayed Non-accommodating
+L4_DBC_bAC217_1 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Accommodating
+L4_DBC_bAC217_2 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Accommodating
+L4_DBC_bAC217_3 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Accommodating
+L4_DBC_bAC217_4 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Accommodating
+L4_DBC_bAC217_5 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Accommodating
+L4_DBC_bIR215_1 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Irregular
+L4_DBC_bIR215_2 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Irregular
+L4_DBC_bIR215_3 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Irregular
+L4_DBC_bIR215_4 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Irregular
+L4_DBC_bIR215_5 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Irregular
+L4_DBC_bNAC219_1 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L4_DBC_bNAC219_2 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L4_DBC_bNAC219_3 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L4_DBC_bNAC219_4 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L4_DBC_bNAC219_5 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L4_DBC_bSTUT213_1 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Stuttering
+L4_DBC_bSTUT213_2 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Stuttering
+L4_DBC_bSTUT213_3 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Stuttering
+L4_DBC_bSTUT213_4 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Stuttering
+L4_DBC_bSTUT213_5 ::: Layer 4 -- [i] Double Bouquet c. -- Burst Stuttering
+L4_DBC_cACint209_1 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Accommodating
+L4_DBC_cACint209_2 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Accommodating
+L4_DBC_cACint209_3 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Accommodating
+L4_DBC_cACint209_4 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Accommodating
+L4_DBC_cACint209_5 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Accommodating
+L4_DBC_cIR216_1 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Irregular
+L4_DBC_cIR216_2 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Irregular
+L4_DBC_cIR216_3 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Irregular
+L4_DBC_cIR216_4 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Irregular
+L4_DBC_cIR216_5 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Irregular
+L4_DBC_cNAC187_1 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L4_DBC_cNAC187_2 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L4_DBC_cNAC187_3 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L4_DBC_cNAC187_4 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L4_DBC_cNAC187_5 ::: Layer 4 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L4_LBC_cACint209_1 ::: Layer 4 -- [i] Large basket c. -- Continuous Accommodating
+L4_LBC_cACint209_2 ::: Layer 4 -- [i] Large basket c. -- Continuous Accommodating
+L4_LBC_cACint209_3 ::: Layer 4 -- [i] Large basket c. -- Continuous Accommodating
+L4_LBC_cACint209_4 ::: Layer 4 -- [i] Large basket c. -- Continuous Accommodating
+L4_LBC_cACint209_5 ::: Layer 4 -- [i] Large basket c. -- Continuous Accommodating
+L4_LBC_cNAC187_1 ::: Layer 4 -- [i] Large basket c. -- Continuous Non-accommodating
+L4_LBC_cNAC187_2 ::: Layer 4 -- [i] Large basket c. -- Continuous Non-accommodating
+L4_LBC_cNAC187_3 ::: Layer 4 -- [i] Large basket c. -- Continuous Non-accommodating
+L4_LBC_cNAC187_4 ::: Layer 4 -- [i] Large basket c. -- Continuous Non-accommodating
+L4_LBC_cNAC187_5 ::: Layer 4 -- [i] Large basket c. -- Continuous Non-accommodating
+L4_LBC_cSTUT189_1 ::: Layer 4 -- [i] Large basket c. -- Continuous Stuttering
+L4_LBC_cSTUT189_2 ::: Layer 4 -- [i] Large basket c. -- Continuous Stuttering
+L4_LBC_cSTUT189_3 ::: Layer 4 -- [i] Large basket c. -- Continuous Stuttering
+L4_LBC_cSTUT189_4 ::: Layer 4 -- [i] Large basket c. -- Continuous Stuttering
+L4_LBC_cSTUT189_5 ::: Layer 4 -- [i] Large basket c. -- Continuous Stuttering
+L4_LBC_dNAC222_1 ::: Layer 4 -- [i] Large basket c. -- Delayed Non-accommodating
+L4_LBC_dNAC222_2 ::: Layer 4 -- [i] Large basket c. -- Delayed Non-accommodating
+L4_LBC_dNAC222_3 ::: Layer 4 -- [i] Large basket c. -- Delayed Non-accommodating
+L4_LBC_dNAC222_4 ::: Layer 4 -- [i] Large basket c. -- Delayed Non-accommodating
+L4_LBC_dNAC222_5 ::: Layer 4 -- [i] Large basket c. -- Delayed Non-accommodating
+L4_LBC_dSTUT214_1 ::: Layer 4 -- [i] Large basket c. -- Delayed Stuttering
+L4_LBC_dSTUT214_2 ::: Layer 4 -- [i] Large basket c. -- Delayed Stuttering
+L4_LBC_dSTUT214_3 ::: Layer 4 -- [i] Large basket c. -- Delayed Stuttering
+L4_LBC_dSTUT214_4 ::: Layer 4 -- [i] Large basket c. -- Delayed Stuttering
+L4_LBC_dSTUT214_5 ::: Layer 4 -- [i] Large basket c. -- Delayed Stuttering
+L4_MC_bAC217_1 ::: Layer 4 -- [i] Martinotti c. -- Burst Accommodating
+L4_MC_bAC217_2 ::: Layer 4 -- [i] Martinotti c. -- Burst Accommodating
+L4_MC_bAC217_3 ::: Layer 4 -- [i] Martinotti c. -- Burst Accommodating
+L4_MC_bAC217_4 ::: Layer 4 -- [i] Martinotti c. -- Burst Accommodating
+L4_MC_bAC217_5 ::: Layer 4 -- [i] Martinotti c. -- Burst Accommodating
+L4_MC_bNAC219_1 ::: Layer 4 -- [i] Martinotti c. -- Burst Non-accommodating
+L4_MC_bNAC219_2 ::: Layer 4 -- [i] Martinotti c. -- Burst Non-accommodating
+L4_MC_bNAC219_3 ::: Layer 4 -- [i] Martinotti c. -- Burst Non-accommodating
+L4_MC_bNAC219_4 ::: Layer 4 -- [i] Martinotti c. -- Burst Non-accommodating
+L4_MC_bNAC219_5 ::: Layer 4 -- [i] Martinotti c. -- Burst Non-accommodating
+L4_MC_cACint209_1 ::: Layer 4 -- [i] Martinotti c. -- Continuous Accommodating
+L4_MC_cACint209_2 ::: Layer 4 -- [i] Martinotti c. -- Continuous Accommodating
+L4_MC_cACint209_3 ::: Layer 4 -- [i] Martinotti c. -- Continuous Accommodating
+L4_MC_cACint209_4 ::: Layer 4 -- [i] Martinotti c. -- Continuous Accommodating
+L4_MC_cACint209_5 ::: Layer 4 -- [i] Martinotti c. -- Continuous Accommodating
+L4_MC_cNAC187_1 ::: Layer 4 -- [i] Martinotti c. -- Continuous Non-accommodating
+L4_MC_cNAC187_2 ::: Layer 4 -- [i] Martinotti c. -- Continuous Non-accommodating
+L4_MC_cNAC187_3 ::: Layer 4 -- [i] Martinotti c. -- Continuous Non-accommodating
+L4_MC_cNAC187_4 ::: Layer 4 -- [i] Martinotti c. -- Continuous Non-accommodating
+L4_MC_cNAC187_5 ::: Layer 4 -- [i] Martinotti c. -- Continuous Non-accommodating
+L4_MC_dNAC222_1 ::: Layer 4 -- [i] Martinotti c. -- Delayed Non-accommodating
+L4_MC_dNAC222_2 ::: Layer 4 -- [i] Martinotti c. -- Delayed Non-accommodating
+L4_MC_dNAC222_3 ::: Layer 4 -- [i] Martinotti c. -- Delayed Non-accommodating
+L4_MC_dNAC222_4 ::: Layer 4 -- [i] Martinotti c. -- Delayed Non-accommodating
+L4_MC_dNAC222_5 ::: Layer 4 -- [i] Martinotti c. -- Delayed Non-accommodating
+L4_NBC_cACint209_1 ::: Layer 4 -- [i] Nest basket c. -- Continuous Accommodating
+L4_NBC_cACint209_2 ::: Layer 4 -- [i] Nest basket c. -- Continuous Accommodating
+L4_NBC_cACint209_3 ::: Layer 4 -- [i] Nest basket c. -- Continuous Accommodating
+L4_NBC_cACint209_4 ::: Layer 4 -- [i] Nest basket c. -- Continuous Accommodating
+L4_NBC_cACint209_5 ::: Layer 4 -- [i] Nest basket c. -- Continuous Accommodating
+L4_NBC_cIR216_1 ::: Layer 4 -- [i] Nest basket c. -- Continuous Irregular
+L4_NBC_cIR216_2 ::: Layer 4 -- [i] Nest basket c. -- Continuous Irregular
+L4_NBC_cIR216_3 ::: Layer 4 -- [i] Nest basket c. -- Continuous Irregular
+L4_NBC_cIR216_4 ::: Layer 4 -- [i] Nest basket c. -- Continuous Irregular
+L4_NBC_cIR216_5 ::: Layer 4 -- [i] Nest basket c. -- Continuous Irregular
+L4_NBC_cNAC187_1 ::: Layer 4 -- [i] Nest basket c. -- Continuous Non-accommodating
+L4_NBC_cNAC187_2 ::: Layer 4 -- [i] Nest basket c. -- Continuous Non-accommodating
+L4_NBC_cNAC187_3 ::: Layer 4 -- [i] Nest basket c. -- Continuous Non-accommodating
+L4_NBC_cNAC187_4 ::: Layer 4 -- [i] Nest basket c. -- Continuous Non-accommodating
+L4_NBC_cNAC187_5 ::: Layer 4 -- [i] Nest basket c. -- Continuous Non-accommodating
+L4_NBC_dNAC222_1 ::: Layer 4 -- [i] Nest basket c. -- Delayed Non-accommodating
+L4_NBC_dNAC222_2 ::: Layer 4 -- [i] Nest basket c. -- Delayed Non-accommodating
+L4_NBC_dNAC222_3 ::: Layer 4 -- [i] Nest basket c. -- Delayed Non-accommodating
+L4_NBC_dNAC222_4 ::: Layer 4 -- [i] Nest basket c. -- Delayed Non-accommodating
+L4_NBC_dNAC222_5 ::: Layer 4 -- [i] Nest basket c. -- Delayed Non-accommodating
+L4_NGC_bNAC219_1 ::: Layer 4 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L4_NGC_bNAC219_2 ::: Layer 4 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L4_NGC_bNAC219_3 ::: Layer 4 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L4_NGC_bNAC219_4 ::: Layer 4 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L4_NGC_bNAC219_5 ::: Layer 4 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L4_NGC_cACint209_1 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Accommodating
+L4_NGC_cACint209_2 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Accommodating
+L4_NGC_cACint209_3 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Accommodating
+L4_NGC_cACint209_4 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Accommodating
+L4_NGC_cACint209_5 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Accommodating
+L4_NGC_cNAC187_1 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L4_NGC_cNAC187_2 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L4_NGC_cNAC187_3 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L4_NGC_cNAC187_4 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L4_NGC_cNAC187_5 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L4_NGC_cSTUT189_1 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Stuttering
+L4_NGC_cSTUT189_2 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Stuttering
+L4_NGC_cSTUT189_3 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Stuttering
+L4_NGC_cSTUT189_4 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Stuttering
+L4_NGC_cSTUT189_5 ::: Layer 4 -- [i] Neurogliaform c. -- Continuous Stuttering
+L4_PC_cADpyr230_1 ::: Layer 4 -- [e] Pyramidal c. -- Continuous Adapting
+L4_PC_cADpyr230_2 ::: Layer 4 -- [e] Pyramidal c. -- Continuous Adapting
+L4_PC_cADpyr230_3 ::: Layer 4 -- [e] Pyramidal c. -- Continuous Adapting
+L4_PC_cADpyr230_4 ::: Layer 4 -- [e] Pyramidal c. -- Continuous Adapting
+L4_PC_cADpyr230_5 ::: Layer 4 -- [e] Pyramidal c. -- Continuous Adapting
+L4_SBC_bNAC219_1 ::: Layer 4 -- [i] Small basket c. -- Burst Non-accommodating
+L4_SBC_bNAC219_2 ::: Layer 4 -- [i] Small basket c. -- Burst Non-accommodating
+L4_SBC_bNAC219_3 ::: Layer 4 -- [i] Small basket c. -- Burst Non-accommodating
+L4_SBC_bNAC219_4 ::: Layer 4 -- [i] Small basket c. -- Burst Non-accommodating
+L4_SBC_bNAC219_5 ::: Layer 4 -- [i] Small basket c. -- Burst Non-accommodating
+L4_SBC_cACint209_1 ::: Layer 4 -- [i] Small basket c. -- Continuous Accommodating
+L4_SBC_cACint209_2 ::: Layer 4 -- [i] Small basket c. -- Continuous Accommodating
+L4_SBC_cACint209_3 ::: Layer 4 -- [i] Small basket c. -- Continuous Accommodating
+L4_SBC_cACint209_4 ::: Layer 4 -- [i] Small basket c. -- Continuous Accommodating
+L4_SBC_cACint209_5 ::: Layer 4 -- [i] Small basket c. -- Continuous Accommodating
+L4_SBC_dNAC222_1 ::: Layer 4 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_SBC_dNAC222_2 ::: Layer 4 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_SBC_dNAC222_3 ::: Layer 4 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_SBC_dNAC222_4 ::: Layer 4 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_SBC_dNAC222_5 ::: Layer 4 -- [i] Small basket c. -- Delayed Non-accommodating
+L4_SP_cADpyr230_1 ::: Layer 4 -- [e] Star Pyramidal c. -- Continuous Adapting
+L4_SP_cADpyr230_2 ::: Layer 4 -- [e] Star Pyramidal c. -- Continuous Adapting
+L4_SP_cADpyr230_3 ::: Layer 4 -- [e] Star Pyramidal c. -- Continuous Adapting
+L4_SP_cADpyr230_4 ::: Layer 4 -- [e] Star Pyramidal c. -- Continuous Adapting
+L4_SP_cADpyr230_5 ::: Layer 4 -- [e] Star Pyramidal c. -- Continuous Adapting
+L4_SS_cADpyr230_1 ::: Layer 4 -- [e] Spiny Stellate c. -- Continuous Adapting
+L4_SS_cADpyr230_2 ::: Layer 4 -- [e] Spiny Stellate c. -- Continuous Adapting
+L4_SS_cADpyr230_3 ::: Layer 4 -- [e] Spiny Stellate c. -- Continuous Adapting
+L4_SS_cADpyr230_4 ::: Layer 4 -- [e] Spiny Stellate c. -- Continuous Adapting
+L4_SS_cADpyr230_5 ::: Layer 4 -- [e] Spiny Stellate c. -- Continuous Adapting
+L5_BP_bAC217_1 ::: Layer 5 -- [i] Bipolar c. -- Burst Accommodating
+L5_BP_bAC217_2 ::: Layer 5 -- [i] Bipolar c. -- Burst Accommodating
+L5_BP_bAC217_3 ::: Layer 5 -- [i] Bipolar c. -- Burst Accommodating
+L5_BP_bAC217_4 ::: Layer 5 -- [i] Bipolar c. -- Burst Accommodating
+L5_BP_bAC217_5 ::: Layer 5 -- [i] Bipolar c. -- Burst Accommodating
+L5_BP_bIR215_1 ::: Layer 5 -- [i] Bipolar c. -- Burst Irregular
+L5_BP_bIR215_2 ::: Layer 5 -- [i] Bipolar c. -- Burst Irregular
+L5_BP_bIR215_3 ::: Layer 5 -- [i] Bipolar c. -- Burst Irregular
+L5_BP_bIR215_4 ::: Layer 5 -- [i] Bipolar c. -- Burst Irregular
+L5_BP_bIR215_5 ::: Layer 5 -- [i] Bipolar c. -- Burst Irregular
+L5_BP_bNAC219_1 ::: Layer 5 -- [i] Bipolar c. -- Burst Non-accommodating
+L5_BP_bNAC219_2 ::: Layer 5 -- [i] Bipolar c. -- Burst Non-accommodating
+L5_BP_bNAC219_3 ::: Layer 5 -- [i] Bipolar c. -- Burst Non-accommodating
+L5_BP_bNAC219_4 ::: Layer 5 -- [i] Bipolar c. -- Burst Non-accommodating
+L5_BP_bNAC219_5 ::: Layer 5 -- [i] Bipolar c. -- Burst Non-accommodating
+L5_BP_cACint209_1 ::: Layer 5 -- [i] Bipolar c. -- Continuous Accommodating
+L5_BP_cACint209_2 ::: Layer 5 -- [i] Bipolar c. -- Continuous Accommodating
+L5_BP_cACint209_3 ::: Layer 5 -- [i] Bipolar c. -- Continuous Accommodating
+L5_BP_cACint209_4 ::: Layer 5 -- [i] Bipolar c. -- Continuous Accommodating
+L5_BP_cACint209_5 ::: Layer 5 -- [i] Bipolar c. -- Continuous Accommodating
+L5_BP_cNAC187_1 ::: Layer 5 -- [i] Bipolar c. -- Continuous Non-accommodating
+L5_BP_cNAC187_2 ::: Layer 5 -- [i] Bipolar c. -- Continuous Non-accommodating
+L5_BP_cNAC187_3 ::: Layer 5 -- [i] Bipolar c. -- Continuous Non-accommodating
+L5_BP_cNAC187_4 ::: Layer 5 -- [i] Bipolar c. -- Continuous Non-accommodating
+L5_BP_cNAC187_5 ::: Layer 5 -- [i] Bipolar c. -- Continuous Non-accommodating
+L5_BP_dSTUT214_1 ::: Layer 5 -- [i] Bipolar c. -- Delayed Stuttering
+L5_BP_dSTUT214_2 ::: Layer 5 -- [i] Bipolar c. -- Delayed Stuttering
+L5_BP_dSTUT214_3 ::: Layer 5 -- [i] Bipolar c. -- Delayed Stuttering
+L5_BP_dSTUT214_4 ::: Layer 5 -- [i] Bipolar c. -- Delayed Stuttering
+L5_BP_dSTUT214_5 ::: Layer 5 -- [i] Bipolar c. -- Delayed Stuttering
+L5_BTC_bAC217_1 ::: Layer 5 -- [i] Bitufted c. -- Burst Accommodating
+L5_BTC_bAC217_2 ::: Layer 5 -- [i] Bitufted c. -- Burst Accommodating
+L5_BTC_bAC217_3 ::: Layer 5 -- [i] Bitufted c. -- Burst Accommodating
+L5_BTC_bAC217_4 ::: Layer 5 -- [i] Bitufted c. -- Burst Accommodating
+L5_BTC_bAC217_5 ::: Layer 5 -- [i] Bitufted c. -- Burst Accommodating
+L5_BTC_cACint209_1 ::: Layer 5 -- [i] Bitufted c. -- Continuous Accommodating
+L5_BTC_cACint209_2 ::: Layer 5 -- [i] Bitufted c. -- Continuous Accommodating
+L5_BTC_cACint209_3 ::: Layer 5 -- [i] Bitufted c. -- Continuous Accommodating
+L5_BTC_cACint209_4 ::: Layer 5 -- [i] Bitufted c. -- Continuous Accommodating
+L5_BTC_cACint209_5 ::: Layer 5 -- [i] Bitufted c. -- Continuous Accommodating
+L5_BTC_cNAC187_1 ::: Layer 5 -- [i] Bitufted c. -- Continuous Non-accommodating
+L5_BTC_cNAC187_2 ::: Layer 5 -- [i] Bitufted c. -- Continuous Non-accommodating
+L5_BTC_cNAC187_3 ::: Layer 5 -- [i] Bitufted c. -- Continuous Non-accommodating
+L5_BTC_cNAC187_4 ::: Layer 5 -- [i] Bitufted c. -- Continuous Non-accommodating
+L5_BTC_cNAC187_5 ::: Layer 5 -- [i] Bitufted c. -- Continuous Non-accommodating
+L5_ChC_cACint209_1 ::: Layer 5 -- [i] Chandelier c. -- Continuous Accommodating
+L5_ChC_cACint209_2 ::: Layer 5 -- [i] Chandelier c. -- Continuous Accommodating
+L5_ChC_cACint209_3 ::: Layer 5 -- [i] Chandelier c. -- Continuous Accommodating
+L5_ChC_cACint209_4 ::: Layer 5 -- [i] Chandelier c. -- Continuous Accommodating
+L5_ChC_cACint209_5 ::: Layer 5 -- [i] Chandelier c. -- Continuous Accommodating
+L5_ChC_cNAC187_1 ::: Layer 5 -- [i] Chandelier c. -- Continuous Non-accommodating
+L5_ChC_cNAC187_2 ::: Layer 5 -- [i] Chandelier c. -- Continuous Non-accommodating
+L5_ChC_cNAC187_3 ::: Layer 5 -- [i] Chandelier c. -- Continuous Non-accommodating
+L5_ChC_cNAC187_4 ::: Layer 5 -- [i] Chandelier c. -- Continuous Non-accommodating
+L5_ChC_cNAC187_5 ::: Layer 5 -- [i] Chandelier c. -- Continuous Non-accommodating
+L5_ChC_dNAC222_1 ::: Layer 5 -- [i] Chandelier c. -- Delayed Non-accommodating
+L5_ChC_dNAC222_2 ::: Layer 5 -- [i] Chandelier c. -- Delayed Non-accommodating
+L5_ChC_dNAC222_3 ::: Layer 5 -- [i] Chandelier c. -- Delayed Non-accommodating
+L5_ChC_dNAC222_4 ::: Layer 5 -- [i] Chandelier c. -- Delayed Non-accommodating
+L5_ChC_dNAC222_5 ::: Layer 5 -- [i] Chandelier c. -- Delayed Non-accommodating
+L5_DBC_bAC217_1 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Accommodating
+L5_DBC_bAC217_2 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Accommodating
+L5_DBC_bAC217_3 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Accommodating
+L5_DBC_bAC217_4 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Accommodating
+L5_DBC_bAC217_5 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Accommodating
+L5_DBC_bIR215_1 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Irregular
+L5_DBC_bIR215_2 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Irregular
+L5_DBC_bIR215_3 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Irregular
+L5_DBC_bIR215_4 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Irregular
+L5_DBC_bIR215_5 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Irregular
+L5_DBC_bNAC219_1 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L5_DBC_bNAC219_2 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L5_DBC_bNAC219_3 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L5_DBC_bNAC219_4 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L5_DBC_bNAC219_5 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L5_DBC_bSTUT213_1 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Stuttering
+L5_DBC_bSTUT213_2 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Stuttering
+L5_DBC_bSTUT213_3 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Stuttering
+L5_DBC_bSTUT213_4 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Stuttering
+L5_DBC_bSTUT213_5 ::: Layer 5 -- [i] Double Bouquet c. -- Burst Stuttering
+L5_DBC_cACint209_1 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Accommodating
+L5_DBC_cACint209_2 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Accommodating
+L5_DBC_cACint209_3 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Accommodating
+L5_DBC_cACint209_4 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Accommodating
+L5_DBC_cACint209_5 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Accommodating
+L5_DBC_cIR216_1 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Irregular
+L5_DBC_cIR216_2 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Irregular
+L5_DBC_cIR216_3 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Irregular
+L5_DBC_cIR216_4 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Irregular
+L5_DBC_cIR216_5 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Irregular
+L5_DBC_cNAC187_1 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L5_DBC_cNAC187_2 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L5_DBC_cNAC187_3 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L5_DBC_cNAC187_4 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L5_DBC_cNAC187_5 ::: Layer 5 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L5_LBC_bAC217_1 ::: Layer 5 -- [i] Large basket c. -- Burst Accommodating
+L5_LBC_bAC217_2 ::: Layer 5 -- [i] Large basket c. -- Burst Accommodating
+L5_LBC_bAC217_3 ::: Layer 5 -- [i] Large basket c. -- Burst Accommodating
+L5_LBC_bAC217_4 ::: Layer 5 -- [i] Large basket c. -- Burst Accommodating
+L5_LBC_bAC217_5 ::: Layer 5 -- [i] Large basket c. -- Burst Accommodating
+L5_LBC_cACint209_1 ::: Layer 5 -- [i] Large basket c. -- Continuous Accommodating
+L5_LBC_cACint209_2 ::: Layer 5 -- [i] Large basket c. -- Continuous Accommodating
+L5_LBC_cACint209_3 ::: Layer 5 -- [i] Large basket c. -- Continuous Accommodating
+L5_LBC_cACint209_4 ::: Layer 5 -- [i] Large basket c. -- Continuous Accommodating
+L5_LBC_cACint209_5 ::: Layer 5 -- [i] Large basket c. -- Continuous Accommodating
+L5_LBC_cIR216_1 ::: Layer 5 -- [i] Large basket c. -- Continuous Irregular
+L5_LBC_cIR216_2 ::: Layer 5 -- [i] Large basket c. -- Continuous Irregular
+L5_LBC_cIR216_3 ::: Layer 5 -- [i] Large basket c. -- Continuous Irregular
+L5_LBC_cIR216_4 ::: Layer 5 -- [i] Large basket c. -- Continuous Irregular
+L5_LBC_cIR216_5 ::: Layer 5 -- [i] Large basket c. -- Continuous Irregular
+L5_LBC_cNAC187_1 ::: Layer 5 -- [i] Large basket c. -- Continuous Non-accommodating
+L5_LBC_cNAC187_2 ::: Layer 5 -- [i] Large basket c. -- Continuous Non-accommodating
+L5_LBC_cNAC187_3 ::: Layer 5 -- [i] Large basket c. -- Continuous Non-accommodating
+L5_LBC_cNAC187_4 ::: Layer 5 -- [i] Large basket c. -- Continuous Non-accommodating
+L5_LBC_cNAC187_5 ::: Layer 5 -- [i] Large basket c. -- Continuous Non-accommodating
+L5_LBC_cSTUT189_1 ::: Layer 5 -- [i] Large basket c. -- Continuous Stuttering
+L5_LBC_cSTUT189_2 ::: Layer 5 -- [i] Large basket c. -- Continuous Stuttering
+L5_LBC_cSTUT189_3 ::: Layer 5 -- [i] Large basket c. -- Continuous Stuttering
+L5_LBC_cSTUT189_4 ::: Layer 5 -- [i] Large basket c. -- Continuous Stuttering
+L5_LBC_cSTUT189_5 ::: Layer 5 -- [i] Large basket c. -- Continuous Stuttering
+L5_LBC_dNAC222_1 ::: Layer 5 -- [i] Large basket c. -- Delayed Non-accommodating
+L5_LBC_dNAC222_2 ::: Layer 5 -- [i] Large basket c. -- Delayed Non-accommodating
+L5_LBC_dNAC222_3 ::: Layer 5 -- [i] Large basket c. -- Delayed Non-accommodating
+L5_LBC_dNAC222_4 ::: Layer 5 -- [i] Large basket c. -- Delayed Non-accommodating
+L5_LBC_dNAC222_5 ::: Layer 5 -- [i] Large basket c. -- Delayed Non-accommodating
+L5_LBC_dSTUT214_1 ::: Layer 5 -- [i] Large basket c. -- Delayed Stuttering
+L5_LBC_dSTUT214_2 ::: Layer 5 -- [i] Large basket c. -- Delayed Stuttering
+L5_LBC_dSTUT214_3 ::: Layer 5 -- [i] Large basket c. -- Delayed Stuttering
+L5_LBC_dSTUT214_4 ::: Layer 5 -- [i] Large basket c. -- Delayed Stuttering
+L5_LBC_dSTUT214_5 ::: Layer 5 -- [i] Large basket c. -- Delayed Stuttering
+L5_MC_bAC217_1 ::: Layer 5 -- [i] Martinotti c. -- Burst Accommodating
+L5_MC_bAC217_2 ::: Layer 5 -- [i] Martinotti c. -- Burst Accommodating
+L5_MC_bAC217_3 ::: Layer 5 -- [i] Martinotti c. -- Burst Accommodating
+L5_MC_bAC217_4 ::: Layer 5 -- [i] Martinotti c. -- Burst Accommodating
+L5_MC_bAC217_5 ::: Layer 5 -- [i] Martinotti c. -- Burst Accommodating
+L5_MC_bIR215_1 ::: Layer 5 -- [i] Martinotti c. -- Burst Irregular
+L5_MC_bIR215_2 ::: Layer 5 -- [i] Martinotti c. -- Burst Irregular
+L5_MC_bIR215_3 ::: Layer 5 -- [i] Martinotti c. -- Burst Irregular
+L5_MC_bIR215_4 ::: Layer 5 -- [i] Martinotti c. -- Burst Irregular
+L5_MC_bIR215_5 ::: Layer 5 -- [i] Martinotti c. -- Burst Irregular
+L5_MC_bSTUT213_1 ::: Layer 5 -- [i] Martinotti c. -- Burst Stuttering
+L5_MC_bSTUT213_2 ::: Layer 5 -- [i] Martinotti c. -- Burst Stuttering
+L5_MC_bSTUT213_3 ::: Layer 5 -- [i] Martinotti c. -- Burst Stuttering
+L5_MC_bSTUT213_4 ::: Layer 5 -- [i] Martinotti c. -- Burst Stuttering
+L5_MC_bSTUT213_5 ::: Layer 5 -- [i] Martinotti c. -- Burst Stuttering
+L5_MC_cACint209_1 ::: Layer 5 -- [i] Martinotti c. -- Continuous Accommodating
+L5_MC_cACint209_2 ::: Layer 5 -- [i] Martinotti c. -- Continuous Accommodating
+L5_MC_cACint209_3 ::: Layer 5 -- [i] Martinotti c. -- Continuous Accommodating
+L5_MC_cACint209_4 ::: Layer 5 -- [i] Martinotti c. -- Continuous Accommodating
+L5_MC_cACint209_5 ::: Layer 5 -- [i] Martinotti c. -- Continuous Accommodating
+L5_MC_cNAC187_1 ::: Layer 5 -- [i] Martinotti c. -- Continuous Non-accommodating
+L5_MC_cNAC187_2 ::: Layer 5 -- [i] Martinotti c. -- Continuous Non-accommodating
+L5_MC_cNAC187_3 ::: Layer 5 -- [i] Martinotti c. -- Continuous Non-accommodating
+L5_MC_cNAC187_4 ::: Layer 5 -- [i] Martinotti c. -- Continuous Non-accommodating
+L5_MC_cNAC187_5 ::: Layer 5 -- [i] Martinotti c. -- Continuous Non-accommodating
+L5_MC_cSTUT189_1 ::: Layer 5 -- [i] Martinotti c. -- Continuous Stuttering
+L5_MC_cSTUT189_2 ::: Layer 5 -- [i] Martinotti c. -- Continuous Stuttering
+L5_MC_cSTUT189_3 ::: Layer 5 -- [i] Martinotti c. -- Continuous Stuttering
+L5_MC_cSTUT189_4 ::: Layer 5 -- [i] Martinotti c. -- Continuous Stuttering
+L5_MC_cSTUT189_5 ::: Layer 5 -- [i] Martinotti c. -- Continuous Stuttering
+L5_MC_dNAC222_1 ::: Layer 5 -- [i] Martinotti c. -- Delayed Non-accommodating
+L5_MC_dNAC222_2 ::: Layer 5 -- [i] Martinotti c. -- Delayed Non-accommodating
+L5_MC_dNAC222_3 ::: Layer 5 -- [i] Martinotti c. -- Delayed Non-accommodating
+L5_MC_dNAC222_4 ::: Layer 5 -- [i] Martinotti c. -- Delayed Non-accommodating
+L5_MC_dNAC222_5 ::: Layer 5 -- [i] Martinotti c. -- Delayed Non-accommodating
+L5_NBC_bAC217_1 ::: Layer 5 -- [i] Nest basket c. -- Burst Accommodating
+L5_NBC_bAC217_2 ::: Layer 5 -- [i] Nest basket c. -- Burst Accommodating
+L5_NBC_bAC217_3 ::: Layer 5 -- [i] Nest basket c. -- Burst Accommodating
+L5_NBC_bAC217_4 ::: Layer 5 -- [i] Nest basket c. -- Burst Accommodating
+L5_NBC_bAC217_5 ::: Layer 5 -- [i] Nest basket c. -- Burst Accommodating
+L5_NBC_bIR215_1 ::: Layer 5 -- [i] Nest basket c. -- Burst Irregular
+L5_NBC_bIR215_2 ::: Layer 5 -- [i] Nest basket c. -- Burst Irregular
+L5_NBC_bIR215_3 ::: Layer 5 -- [i] Nest basket c. -- Burst Irregular
+L5_NBC_bIR215_4 ::: Layer 5 -- [i] Nest basket c. -- Burst Irregular
+L5_NBC_bIR215_5 ::: Layer 5 -- [i] Nest basket c. -- Burst Irregular
+L5_NBC_bSTUT213_1 ::: Layer 5 -- [i] Nest basket c. -- Burst Stuttering
+L5_NBC_bSTUT213_2 ::: Layer 5 -- [i] Nest basket c. -- Burst Stuttering
+L5_NBC_bSTUT213_3 ::: Layer 5 -- [i] Nest basket c. -- Burst Stuttering
+L5_NBC_bSTUT213_4 ::: Layer 5 -- [i] Nest basket c. -- Burst Stuttering
+L5_NBC_bSTUT213_5 ::: Layer 5 -- [i] Nest basket c. -- Burst Stuttering
+L5_NBC_cACint209_1 ::: Layer 5 -- [i] Nest basket c. -- Continuous Accommodating
+L5_NBC_cACint209_2 ::: Layer 5 -- [i] Nest basket c. -- Continuous Accommodating
+L5_NBC_cACint209_3 ::: Layer 5 -- [i] Nest basket c. -- Continuous Accommodating
+L5_NBC_cACint209_4 ::: Layer 5 -- [i] Nest basket c. -- Continuous Accommodating
+L5_NBC_cACint209_5 ::: Layer 5 -- [i] Nest basket c. -- Continuous Accommodating
+L5_NBC_cIR216_1 ::: Layer 5 -- [i] Nest basket c. -- Continuous Irregular
+L5_NBC_cIR216_2 ::: Layer 5 -- [i] Nest basket c. -- Continuous Irregular
+L5_NBC_cIR216_3 ::: Layer 5 -- [i] Nest basket c. -- Continuous Irregular
+L5_NBC_cIR216_4 ::: Layer 5 -- [i] Nest basket c. -- Continuous Irregular
+L5_NBC_cIR216_5 ::: Layer 5 -- [i] Nest basket c. -- Continuous Irregular
+L5_NBC_cNAC187_1 ::: Layer 5 -- [i] Nest basket c. -- Continuous Non-accommodating
+L5_NBC_cNAC187_2 ::: Layer 5 -- [i] Nest basket c. -- Continuous Non-accommodating
+L5_NBC_cNAC187_3 ::: Layer 5 -- [i] Nest basket c. -- Continuous Non-accommodating
+L5_NBC_cNAC187_4 ::: Layer 5 -- [i] Nest basket c. -- Continuous Non-accommodating
+L5_NBC_cNAC187_5 ::: Layer 5 -- [i] Nest basket c. -- Continuous Non-accommodating
+L5_NBC_cSTUT189_1 ::: Layer 5 -- [i] Nest basket c. -- Continuous Stuttering
+L5_NBC_cSTUT189_2 ::: Layer 5 -- [i] Nest basket c. -- Continuous Stuttering
+L5_NBC_cSTUT189_3 ::: Layer 5 -- [i] Nest basket c. -- Continuous Stuttering
+L5_NBC_cSTUT189_4 ::: Layer 5 -- [i] Nest basket c. -- Continuous Stuttering
+L5_NBC_cSTUT189_5 ::: Layer 5 -- [i] Nest basket c. -- Continuous Stuttering
+L5_NBC_dSTUT214_1 ::: Layer 5 -- [i] Nest basket c. -- Delayed Stuttering
+L5_NBC_dSTUT214_2 ::: Layer 5 -- [i] Nest basket c. -- Delayed Stuttering
+L5_NBC_dSTUT214_3 ::: Layer 5 -- [i] Nest basket c. -- Delayed Stuttering
+L5_NBC_dSTUT214_4 ::: Layer 5 -- [i] Nest basket c. -- Delayed Stuttering
+L5_NBC_dSTUT214_5 ::: Layer 5 -- [i] Nest basket c. -- Delayed Stuttering
+L5_NGC_bNAC219_1 ::: Layer 5 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L5_NGC_bNAC219_2 ::: Layer 5 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L5_NGC_bNAC219_3 ::: Layer 5 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L5_NGC_bNAC219_4 ::: Layer 5 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L5_NGC_bNAC219_5 ::: Layer 5 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L5_NGC_cACint209_1 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Accommodating
+L5_NGC_cACint209_2 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Accommodating
+L5_NGC_cACint209_3 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Accommodating
+L5_NGC_cACint209_4 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Accommodating
+L5_NGC_cACint209_5 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Accommodating
+L5_NGC_cNAC187_1 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L5_NGC_cNAC187_2 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L5_NGC_cNAC187_3 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L5_NGC_cNAC187_4 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L5_NGC_cNAC187_5 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L5_NGC_cSTUT189_1 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Stuttering
+L5_NGC_cSTUT189_2 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Stuttering
+L5_NGC_cSTUT189_3 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Stuttering
+L5_NGC_cSTUT189_4 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Stuttering
+L5_NGC_cSTUT189_5 ::: Layer 5 -- [i] Neurogliaform c. -- Continuous Stuttering
+L5_SBC_bNAC219_1 ::: Layer 5 -- [i] Small basket c. -- Burst Non-accommodating
+L5_SBC_bNAC219_2 ::: Layer 5 -- [i] Small basket c. -- Burst Non-accommodating
+L5_SBC_bNAC219_3 ::: Layer 5 -- [i] Small basket c. -- Burst Non-accommodating
+L5_SBC_bNAC219_4 ::: Layer 5 -- [i] Small basket c. -- Burst Non-accommodating
+L5_SBC_bNAC219_5 ::: Layer 5 -- [i] Small basket c. -- Burst Non-accommodating
+L5_SBC_cACint209_1 ::: Layer 5 -- [i] Small basket c. -- Continuous Accommodating
+L5_SBC_cACint209_2 ::: Layer 5 -- [i] Small basket c. -- Continuous Accommodating
+L5_SBC_cACint209_3 ::: Layer 5 -- [i] Small basket c. -- Continuous Accommodating
+L5_SBC_cACint209_4 ::: Layer 5 -- [i] Small basket c. -- Continuous Accommodating
+L5_SBC_cACint209_5 ::: Layer 5 -- [i] Small basket c. -- Continuous Accommodating
+L5_SBC_dNAC222_1 ::: Layer 5 -- [i] Small basket c. -- Delayed Non-accommodating
+L5_SBC_dNAC222_2 ::: Layer 5 -- [i] Small basket c. -- Delayed Non-accommodating
+L5_SBC_dNAC222_3 ::: Layer 5 -- [i] Small basket c. -- Delayed Non-accommodating
+L5_SBC_dNAC222_4 ::: Layer 5 -- [i] Small basket c. -- Delayed Non-accommodating
+L5_SBC_dNAC222_5 ::: Layer 5 -- [i] Small basket c. -- Delayed Non-accommodating
+L5_STPC_cADpyr232_1 ::: Layer 5 -- [e] Slender tufted pyramidal c. -- Continuous Adapting
+L5_STPC_cADpyr232_2 ::: Layer 5 -- [e] Slender tufted pyramidal c. -- Continuous Adapting
+L5_STPC_cADpyr232_3 ::: Layer 5 -- [e] Slender tufted pyramidal c. -- Continuous Adapting
+L5_STPC_cADpyr232_4 ::: Layer 5 -- [e] Slender tufted pyramidal c. -- Continuous Adapting
+L5_STPC_cADpyr232_5 ::: Layer 5 -- [e] Slender tufted pyramidal c. -- Continuous Adapting
+L5_TTPC1_cADpyr232_1 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (late bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC1_cADpyr232_2 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (late bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC1_cADpyr232_3 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (late bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC1_cADpyr232_4 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (late bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC1_cADpyr232_5 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (late bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC2_cADpyr232_1 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (early bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC2_cADpyr232_2 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (early bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC2_cADpyr232_3 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (early bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC2_cADpyr232_4 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (early bifurcating apical tuft) -- Continuous Adapting
+L5_TTPC2_cADpyr232_5 ::: Layer 5 -- [e] Thick-tufted Pyramidal c. (early bifurcating apical tuft) -- Continuous Adapting
+L5_UTPC_cADpyr232_1 ::: Layer 5 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L5_UTPC_cADpyr232_2 ::: Layer 5 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L5_UTPC_cADpyr232_3 ::: Layer 5 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L5_UTPC_cADpyr232_4 ::: Layer 5 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L5_UTPC_cADpyr232_5 ::: Layer 5 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L6_BPC_cADpyr231_1 ::: Layer 6 -- [e] Pyramidal c. with bipolar apical-like dendrites -- Continuous Adapting
+L6_BPC_cADpyr231_2 ::: Layer 6 -- [e] Pyramidal c. with bipolar apical-like dendrites -- Continuous Adapting
+L6_BPC_cADpyr231_3 ::: Layer 6 -- [e] Pyramidal c. with bipolar apical-like dendrites -- Continuous Adapting
+L6_BPC_cADpyr231_4 ::: Layer 6 -- [e] Pyramidal c. with bipolar apical-like dendrites -- Continuous Adapting
+L6_BPC_cADpyr231_5 ::: Layer 6 -- [e] Pyramidal c. with bipolar apical-like dendrites -- Continuous Adapting
+L6_BP_bAC217_1 ::: Layer 6 -- [i] Bipolar c. -- Burst Accommodating
+L6_BP_bAC217_2 ::: Layer 6 -- [i] Bipolar c. -- Burst Accommodating
+L6_BP_bAC217_3 ::: Layer 6 -- [i] Bipolar c. -- Burst Accommodating
+L6_BP_bAC217_4 ::: Layer 6 -- [i] Bipolar c. -- Burst Accommodating
+L6_BP_bAC217_5 ::: Layer 6 -- [i] Bipolar c. -- Burst Accommodating
+L6_BP_bIR215_1 ::: Layer 6 -- [i] Bipolar c. -- Burst Irregular
+L6_BP_bIR215_2 ::: Layer 6 -- [i] Bipolar c. -- Burst Irregular
+L6_BP_bIR215_3 ::: Layer 6 -- [i] Bipolar c. -- Burst Irregular
+L6_BP_bIR215_4 ::: Layer 6 -- [i] Bipolar c. -- Burst Irregular
+L6_BP_bIR215_5 ::: Layer 6 -- [i] Bipolar c. -- Burst Irregular
+L6_BP_bNAC219_1 ::: Layer 6 -- [i] Bipolar c. -- Burst Non-accommodating
+L6_BP_bNAC219_2 ::: Layer 6 -- [i] Bipolar c. -- Burst Non-accommodating
+L6_BP_bNAC219_3 ::: Layer 6 -- [i] Bipolar c. -- Burst Non-accommodating
+L6_BP_bNAC219_4 ::: Layer 6 -- [i] Bipolar c. -- Burst Non-accommodating
+L6_BP_bNAC219_5 ::: Layer 6 -- [i] Bipolar c. -- Burst Non-accommodating
+L6_BP_cACint209_1 ::: Layer 6 -- [i] Bipolar c. -- Continuous Accommodating
+L6_BP_cACint209_2 ::: Layer 6 -- [i] Bipolar c. -- Continuous Accommodating
+L6_BP_cACint209_3 ::: Layer 6 -- [i] Bipolar c. -- Continuous Accommodating
+L6_BP_cACint209_4 ::: Layer 6 -- [i] Bipolar c. -- Continuous Accommodating
+L6_BP_cACint209_5 ::: Layer 6 -- [i] Bipolar c. -- Continuous Accommodating
+L6_BP_cNAC187_1 ::: Layer 6 -- [i] Bipolar c. -- Continuous Non-accommodating
+L6_BP_cNAC187_2 ::: Layer 6 -- [i] Bipolar c. -- Continuous Non-accommodating
+L6_BP_cNAC187_3 ::: Layer 6 -- [i] Bipolar c. -- Continuous Non-accommodating
+L6_BP_cNAC187_4 ::: Layer 6 -- [i] Bipolar c. -- Continuous Non-accommodating
+L6_BP_cNAC187_5 ::: Layer 6 -- [i] Bipolar c. -- Continuous Non-accommodating
+L6_BP_dSTUT214_1 ::: Layer 6 -- [i] Bipolar c. -- Delayed Stuttering
+L6_BP_dSTUT214_2 ::: Layer 6 -- [i] Bipolar c. -- Delayed Stuttering
+L6_BP_dSTUT214_3 ::: Layer 6 -- [i] Bipolar c. -- Delayed Stuttering
+L6_BP_dSTUT214_4 ::: Layer 6 -- [i] Bipolar c. -- Delayed Stuttering
+L6_BP_dSTUT214_5 ::: Layer 6 -- [i] Bipolar c. -- Delayed Stuttering
+L6_BTC_bAC217_1 ::: Layer 6 -- [i] Bitufted c. -- Burst Accommodating
+L6_BTC_bAC217_2 ::: Layer 6 -- [i] Bitufted c. -- Burst Accommodating
+L6_BTC_bAC217_3 ::: Layer 6 -- [i] Bitufted c. -- Burst Accommodating
+L6_BTC_bAC217_4 ::: Layer 6 -- [i] Bitufted c. -- Burst Accommodating
+L6_BTC_bAC217_5 ::: Layer 6 -- [i] Bitufted c. -- Burst Accommodating
+L6_BTC_cACint209_1 ::: Layer 6 -- [i] Bitufted c. -- Continuous Accommodating
+L6_BTC_cACint209_2 ::: Layer 6 -- [i] Bitufted c. -- Continuous Accommodating
+L6_BTC_cACint209_3 ::: Layer 6 -- [i] Bitufted c. -- Continuous Accommodating
+L6_BTC_cACint209_4 ::: Layer 6 -- [i] Bitufted c. -- Continuous Accommodating
+L6_BTC_cACint209_5 ::: Layer 6 -- [i] Bitufted c. -- Continuous Accommodating
+L6_BTC_cNAC187_1 ::: Layer 6 -- [i] Bitufted c. -- Continuous Non-accommodating
+L6_BTC_cNAC187_2 ::: Layer 6 -- [i] Bitufted c. -- Continuous Non-accommodating
+L6_BTC_cNAC187_3 ::: Layer 6 -- [i] Bitufted c. -- Continuous Non-accommodating
+L6_BTC_cNAC187_4 ::: Layer 6 -- [i] Bitufted c. -- Continuous Non-accommodating
+L6_BTC_cNAC187_5 ::: Layer 6 -- [i] Bitufted c. -- Continuous Non-accommodating
+L6_ChC_cACint209_1 ::: Layer 6 -- [i] Chandelier c. -- Continuous Accommodating
+L6_ChC_cACint209_2 ::: Layer 6 -- [i] Chandelier c. -- Continuous Accommodating
+L6_ChC_cACint209_3 ::: Layer 6 -- [i] Chandelier c. -- Continuous Accommodating
+L6_ChC_cACint209_4 ::: Layer 6 -- [i] Chandelier c. -- Continuous Accommodating
+L6_ChC_cACint209_5 ::: Layer 6 -- [i] Chandelier c. -- Continuous Accommodating
+L6_ChC_cNAC187_1 ::: Layer 6 -- [i] Chandelier c. -- Continuous Non-accommodating
+L6_ChC_cNAC187_2 ::: Layer 6 -- [i] Chandelier c. -- Continuous Non-accommodating
+L6_ChC_cNAC187_3 ::: Layer 6 -- [i] Chandelier c. -- Continuous Non-accommodating
+L6_ChC_cNAC187_4 ::: Layer 6 -- [i] Chandelier c. -- Continuous Non-accommodating
+L6_ChC_cNAC187_5 ::: Layer 6 -- [i] Chandelier c. -- Continuous Non-accommodating
+L6_ChC_dNAC222_1 ::: Layer 6 -- [i] Chandelier c. -- Delayed Non-accommodating
+L6_ChC_dNAC222_2 ::: Layer 6 -- [i] Chandelier c. -- Delayed Non-accommodating
+L6_ChC_dNAC222_3 ::: Layer 6 -- [i] Chandelier c. -- Delayed Non-accommodating
+L6_ChC_dNAC222_4 ::: Layer 6 -- [i] Chandelier c. -- Delayed Non-accommodating
+L6_ChC_dNAC222_5 ::: Layer 6 -- [i] Chandelier c. -- Delayed Non-accommodating
+L6_DBC_bAC217_1 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Accommodating
+L6_DBC_bAC217_2 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Accommodating
+L6_DBC_bAC217_3 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Accommodating
+L6_DBC_bAC217_4 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Accommodating
+L6_DBC_bAC217_5 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Accommodating
+L6_DBC_bIR215_1 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Irregular
+L6_DBC_bIR215_2 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Irregular
+L6_DBC_bIR215_3 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Irregular
+L6_DBC_bIR215_4 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Irregular
+L6_DBC_bIR215_5 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Irregular
+L6_DBC_bNAC219_1 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L6_DBC_bNAC219_2 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L6_DBC_bNAC219_3 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L6_DBC_bNAC219_4 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L6_DBC_bNAC219_5 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Non-accommodating
+L6_DBC_bSTUT213_1 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Stuttering
+L6_DBC_bSTUT213_2 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Stuttering
+L6_DBC_bSTUT213_3 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Stuttering
+L6_DBC_bSTUT213_4 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Stuttering
+L6_DBC_bSTUT213_5 ::: Layer 6 -- [i] Double Bouquet c. -- Burst Stuttering
+L6_DBC_cACint209_1 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Accommodating
+L6_DBC_cACint209_2 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Accommodating
+L6_DBC_cACint209_3 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Accommodating
+L6_DBC_cACint209_4 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Accommodating
+L6_DBC_cACint209_5 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Accommodating
+L6_DBC_cIR216_1 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Irregular
+L6_DBC_cIR216_2 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Irregular
+L6_DBC_cIR216_3 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Irregular
+L6_DBC_cIR216_4 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Irregular
+L6_DBC_cIR216_5 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Irregular
+L6_DBC_cNAC187_1 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L6_DBC_cNAC187_2 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L6_DBC_cNAC187_3 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L6_DBC_cNAC187_4 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L6_DBC_cNAC187_5 ::: Layer 6 -- [i] Double Bouquet c. -- Continuous Non-accommodating
+L6_IPC_cADpyr231_1 ::: Layer 6 -- [e] Pyramidal c. with inverted apical-like dendrites -- Continuous Adapting
+L6_IPC_cADpyr231_2 ::: Layer 6 -- [e] Pyramidal c. with inverted apical-like dendrites -- Continuous Adapting
+L6_IPC_cADpyr231_3 ::: Layer 6 -- [e] Pyramidal c. with inverted apical-like dendrites -- Continuous Adapting
+L6_IPC_cADpyr231_4 ::: Layer 6 -- [e] Pyramidal c. with inverted apical-like dendrites -- Continuous Adapting
+L6_IPC_cADpyr231_5 ::: Layer 6 -- [e] Pyramidal c. with inverted apical-like dendrites -- Continuous Adapting
+L6_LBC_bAC217_1 ::: Layer 6 -- [i] Large basket c. -- Burst Accommodating
+L6_LBC_bAC217_2 ::: Layer 6 -- [i] Large basket c. -- Burst Accommodating
+L6_LBC_bAC217_3 ::: Layer 6 -- [i] Large basket c. -- Burst Accommodating
+L6_LBC_bAC217_4 ::: Layer 6 -- [i] Large basket c. -- Burst Accommodating
+L6_LBC_bAC217_5 ::: Layer 6 -- [i] Large basket c. -- Burst Accommodating
+L6_LBC_bIR215_1 ::: Layer 6 -- [i] Large basket c. -- Burst Irregular
+L6_LBC_bIR215_2 ::: Layer 6 -- [i] Large basket c. -- Burst Irregular
+L6_LBC_bIR215_3 ::: Layer 6 -- [i] Large basket c. -- Burst Irregular
+L6_LBC_bIR215_4 ::: Layer 6 -- [i] Large basket c. -- Burst Irregular
+L6_LBC_bIR215_5 ::: Layer 6 -- [i] Large basket c. -- Burst Irregular
+L6_LBC_bNAC219_1 ::: Layer 6 -- [i] Large basket c. -- Burst Non-accommodating
+L6_LBC_bNAC219_2 ::: Layer 6 -- [i] Large basket c. -- Burst Non-accommodating
+L6_LBC_bNAC219_3 ::: Layer 6 -- [i] Large basket c. -- Burst Non-accommodating
+L6_LBC_bNAC219_4 ::: Layer 6 -- [i] Large basket c. -- Burst Non-accommodating
+L6_LBC_bNAC219_5 ::: Layer 6 -- [i] Large basket c. -- Burst Non-accommodating
+L6_LBC_bSTUT213_1 ::: Layer 6 -- [i] Large basket c. -- Burst Stuttering
+L6_LBC_bSTUT213_2 ::: Layer 6 -- [i] Large basket c. -- Burst Stuttering
+L6_LBC_bSTUT213_3 ::: Layer 6 -- [i] Large basket c. -- Burst Stuttering
+L6_LBC_bSTUT213_4 ::: Layer 6 -- [i] Large basket c. -- Burst Stuttering
+L6_LBC_bSTUT213_5 ::: Layer 6 -- [i] Large basket c. -- Burst Stuttering
+L6_LBC_cNAC187_1 ::: Layer 6 -- [i] Large basket c. -- Continuous Non-accommodating
+L6_LBC_cNAC187_2 ::: Layer 6 -- [i] Large basket c. -- Continuous Non-accommodating
+L6_LBC_cNAC187_3 ::: Layer 6 -- [i] Large basket c. -- Continuous Non-accommodating
+L6_LBC_cNAC187_4 ::: Layer 6 -- [i] Large basket c. -- Continuous Non-accommodating
+L6_LBC_cNAC187_5 ::: Layer 6 -- [i] Large basket c. -- Continuous Non-accommodating
+L6_LBC_cSTUT189_1 ::: Layer 6 -- [i] Large basket c. -- Continuous Stuttering
+L6_LBC_cSTUT189_2 ::: Layer 6 -- [i] Large basket c. -- Continuous Stuttering
+L6_LBC_cSTUT189_3 ::: Layer 6 -- [i] Large basket c. -- Continuous Stuttering
+L6_LBC_cSTUT189_4 ::: Layer 6 -- [i] Large basket c. -- Continuous Stuttering
+L6_LBC_cSTUT189_5 ::: Layer 6 -- [i] Large basket c. -- Continuous Stuttering
+L6_MC_bAC217_1 ::: Layer 6 -- [i] Martinotti c. -- Burst Accommodating
+L6_MC_bAC217_2 ::: Layer 6 -- [i] Martinotti c. -- Burst Accommodating
+L6_MC_bAC217_3 ::: Layer 6 -- [i] Martinotti c. -- Burst Accommodating
+L6_MC_bAC217_4 ::: Layer 6 -- [i] Martinotti c. -- Burst Accommodating
+L6_MC_bAC217_5 ::: Layer 6 -- [i] Martinotti c. -- Burst Accommodating
+L6_MC_bIR215_1 ::: Layer 6 -- [i] Martinotti c. -- Burst Irregular
+L6_MC_bIR215_2 ::: Layer 6 -- [i] Martinotti c. -- Burst Irregular
+L6_MC_bIR215_3 ::: Layer 6 -- [i] Martinotti c. -- Burst Irregular
+L6_MC_bIR215_4 ::: Layer 6 -- [i] Martinotti c. -- Burst Irregular
+L6_MC_bIR215_5 ::: Layer 6 -- [i] Martinotti c. -- Burst Irregular
+L6_MC_bNAC219_1 ::: Layer 6 -- [i] Martinotti c. -- Burst Non-accommodating
+L6_MC_bNAC219_2 ::: Layer 6 -- [i] Martinotti c. -- Burst Non-accommodating
+L6_MC_bNAC219_3 ::: Layer 6 -- [i] Martinotti c. -- Burst Non-accommodating
+L6_MC_bNAC219_4 ::: Layer 6 -- [i] Martinotti c. -- Burst Non-accommodating
+L6_MC_bNAC219_5 ::: Layer 6 -- [i] Martinotti c. -- Burst Non-accommodating
+L6_MC_bSTUT213_1 ::: Layer 6 -- [i] Martinotti c. -- Burst Stuttering
+L6_MC_bSTUT213_2 ::: Layer 6 -- [i] Martinotti c. -- Burst Stuttering
+L6_MC_bSTUT213_3 ::: Layer 6 -- [i] Martinotti c. -- Burst Stuttering
+L6_MC_bSTUT213_4 ::: Layer 6 -- [i] Martinotti c. -- Burst Stuttering
+L6_MC_bSTUT213_5 ::: Layer 6 -- [i] Martinotti c. -- Burst Stuttering
+L6_MC_cACint209_1 ::: Layer 6 -- [i] Martinotti c. -- Continuous Accommodating
+L6_MC_cACint209_2 ::: Layer 6 -- [i] Martinotti c. -- Continuous Accommodating
+L6_MC_cACint209_3 ::: Layer 6 -- [i] Martinotti c. -- Continuous Accommodating
+L6_MC_cACint209_4 ::: Layer 6 -- [i] Martinotti c. -- Continuous Accommodating
+L6_MC_cACint209_5 ::: Layer 6 -- [i] Martinotti c. -- Continuous Accommodating
+L6_MC_cIR216_1 ::: Layer 6 -- [i] Martinotti c. -- Continuous Irregular
+L6_MC_cIR216_2 ::: Layer 6 -- [i] Martinotti c. -- Continuous Irregular
+L6_MC_cIR216_3 ::: Layer 6 -- [i] Martinotti c. -- Continuous Irregular
+L6_MC_cIR216_4 ::: Layer 6 -- [i] Martinotti c. -- Continuous Irregular
+L6_MC_cIR216_5 ::: Layer 6 -- [i] Martinotti c. -- Continuous Irregular
+L6_MC_cNAC187_1 ::: Layer 6 -- [i] Martinotti c. -- Continuous Non-accommodating
+L6_MC_cNAC187_2 ::: Layer 6 -- [i] Martinotti c. -- Continuous Non-accommodating
+L6_MC_cNAC187_3 ::: Layer 6 -- [i] Martinotti c. -- Continuous Non-accommodating
+L6_MC_cNAC187_4 ::: Layer 6 -- [i] Martinotti c. -- Continuous Non-accommodating
+L6_MC_cNAC187_5 ::: Layer 6 -- [i] Martinotti c. -- Continuous Non-accommodating
+L6_NBC_bAC217_1 ::: Layer 6 -- [i] Nest basket c. -- Burst Accommodating
+L6_NBC_bAC217_2 ::: Layer 6 -- [i] Nest basket c. -- Burst Accommodating
+L6_NBC_bAC217_3 ::: Layer 6 -- [i] Nest basket c. -- Burst Accommodating
+L6_NBC_bAC217_4 ::: Layer 6 -- [i] Nest basket c. -- Burst Accommodating
+L6_NBC_bAC217_5 ::: Layer 6 -- [i] Nest basket c. -- Burst Accommodating
+L6_NBC_bIR215_1 ::: Layer 6 -- [i] Nest basket c. -- Burst Irregular
+L6_NBC_bIR215_2 ::: Layer 6 -- [i] Nest basket c. -- Burst Irregular
+L6_NBC_bIR215_3 ::: Layer 6 -- [i] Nest basket c. -- Burst Irregular
+L6_NBC_bIR215_4 ::: Layer 6 -- [i] Nest basket c. -- Burst Irregular
+L6_NBC_bIR215_5 ::: Layer 6 -- [i] Nest basket c. -- Burst Irregular
+L6_NBC_bSTUT213_1 ::: Layer 6 -- [i] Nest basket c. -- Burst Stuttering
+L6_NBC_bSTUT213_2 ::: Layer 6 -- [i] Nest basket c. -- Burst Stuttering
+L6_NBC_bSTUT213_3 ::: Layer 6 -- [i] Nest basket c. -- Burst Stuttering
+L6_NBC_bSTUT213_4 ::: Layer 6 -- [i] Nest basket c. -- Burst Stuttering
+L6_NBC_bSTUT213_5 ::: Layer 6 -- [i] Nest basket c. -- Burst Stuttering
+L6_NBC_cACint209_1 ::: Layer 6 -- [i] Nest basket c. -- Continuous Accommodating
+L6_NBC_cACint209_2 ::: Layer 6 -- [i] Nest basket c. -- Continuous Accommodating
+L6_NBC_cACint209_3 ::: Layer 6 -- [i] Nest basket c. -- Continuous Accommodating
+L6_NBC_cACint209_4 ::: Layer 6 -- [i] Nest basket c. -- Continuous Accommodating
+L6_NBC_cACint209_5 ::: Layer 6 -- [i] Nest basket c. -- Continuous Accommodating
+L6_NBC_cIR216_1 ::: Layer 6 -- [i] Nest basket c. -- Continuous Irregular
+L6_NBC_cIR216_2 ::: Layer 6 -- [i] Nest basket c. -- Continuous Irregular
+L6_NBC_cIR216_3 ::: Layer 6 -- [i] Nest basket c. -- Continuous Irregular
+L6_NBC_cIR216_4 ::: Layer 6 -- [i] Nest basket c. -- Continuous Irregular
+L6_NBC_cIR216_5 ::: Layer 6 -- [i] Nest basket c. -- Continuous Irregular
+L6_NBC_cNAC187_1 ::: Layer 6 -- [i] Nest basket c. -- Continuous Non-accommodating
+L6_NBC_cNAC187_2 ::: Layer 6 -- [i] Nest basket c. -- Continuous Non-accommodating
+L6_NBC_cNAC187_3 ::: Layer 6 -- [i] Nest basket c. -- Continuous Non-accommodating
+L6_NBC_cNAC187_4 ::: Layer 6 -- [i] Nest basket c. -- Continuous Non-accommodating
+L6_NBC_cNAC187_5 ::: Layer 6 -- [i] Nest basket c. -- Continuous Non-accommodating
+L6_NBC_cSTUT189_1 ::: Layer 6 -- [i] Nest basket c. -- Continuous Stuttering
+L6_NBC_cSTUT189_2 ::: Layer 6 -- [i] Nest basket c. -- Continuous Stuttering
+L6_NBC_cSTUT189_3 ::: Layer 6 -- [i] Nest basket c. -- Continuous Stuttering
+L6_NBC_cSTUT189_4 ::: Layer 6 -- [i] Nest basket c. -- Continuous Stuttering
+L6_NBC_cSTUT189_5 ::: Layer 6 -- [i] Nest basket c. -- Continuous Stuttering
+L6_NBC_dSTUT214_1 ::: Layer 6 -- [i] Nest basket c. -- Delayed Stuttering
+L6_NBC_dSTUT214_2 ::: Layer 6 -- [i] Nest basket c. -- Delayed Stuttering
+L6_NBC_dSTUT214_3 ::: Layer 6 -- [i] Nest basket c. -- Delayed Stuttering
+L6_NBC_dSTUT214_4 ::: Layer 6 -- [i] Nest basket c. -- Delayed Stuttering
+L6_NBC_dSTUT214_5 ::: Layer 6 -- [i] Nest basket c. -- Delayed Stuttering
+L6_NGC_bNAC219_1 ::: Layer 6 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L6_NGC_bNAC219_2 ::: Layer 6 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L6_NGC_bNAC219_3 ::: Layer 6 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L6_NGC_bNAC219_4 ::: Layer 6 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L6_NGC_bNAC219_5 ::: Layer 6 -- [i] Neurogliaform c. -- Burst Non-accommodating
+L6_NGC_cACint209_1 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Accommodating
+L6_NGC_cACint209_2 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Accommodating
+L6_NGC_cACint209_3 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Accommodating
+L6_NGC_cACint209_4 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Accommodating
+L6_NGC_cACint209_5 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Accommodating
+L6_NGC_cNAC187_1 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L6_NGC_cNAC187_2 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L6_NGC_cNAC187_3 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L6_NGC_cNAC187_4 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L6_NGC_cNAC187_5 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Non-accommodating
+L6_NGC_cSTUT189_1 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Stuttering
+L6_NGC_cSTUT189_2 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Stuttering
+L6_NGC_cSTUT189_3 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Stuttering
+L6_NGC_cSTUT189_4 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Stuttering
+L6_NGC_cSTUT189_5 ::: Layer 6 -- [i] Neurogliaform c. -- Continuous Stuttering
+L6_SBC_bNAC219_1 ::: Layer 6 -- [i] Small basket c. -- Burst Non-accommodating
+L6_SBC_bNAC219_2 ::: Layer 6 -- [i] Small basket c. -- Burst Non-accommodating
+L6_SBC_bNAC219_3 ::: Layer 6 -- [i] Small basket c. -- Burst Non-accommodating
+L6_SBC_bNAC219_4 ::: Layer 6 -- [i] Small basket c. -- Burst Non-accommodating
+L6_SBC_bNAC219_5 ::: Layer 6 -- [i] Small basket c. -- Burst Non-accommodating
+L6_SBC_cACint209_1 ::: Layer 6 -- [i] Small basket c. -- Continuous Accommodating
+L6_SBC_cACint209_2 ::: Layer 6 -- [i] Small basket c. -- Continuous Accommodating
+L6_SBC_cACint209_3 ::: Layer 6 -- [i] Small basket c. -- Continuous Accommodating
+L6_SBC_cACint209_4 ::: Layer 6 -- [i] Small basket c. -- Continuous Accommodating
+L6_SBC_cACint209_5 ::: Layer 6 -- [i] Small basket c. -- Continuous Accommodating
+L6_SBC_dNAC222_1 ::: Layer 6 -- [i] Small basket c. -- Delayed Non-accommodating
+L6_SBC_dNAC222_2 ::: Layer 6 -- [i] Small basket c. -- Delayed Non-accommodating
+L6_SBC_dNAC222_3 ::: Layer 6 -- [i] Small basket c. -- Delayed Non-accommodating
+L6_SBC_dNAC222_4 ::: Layer 6 -- [i] Small basket c. -- Delayed Non-accommodating
+L6_SBC_dNAC222_5 ::: Layer 6 -- [i] Small basket c. -- Delayed Non-accommodating
+L6_TPC_L1_cADpyr231_1 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 1 -- Continuous Adapting
+L6_TPC_L1_cADpyr231_2 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 1 -- Continuous Adapting
+L6_TPC_L1_cADpyr231_3 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 1 -- Continuous Adapting
+L6_TPC_L1_cADpyr231_4 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 1 -- Continuous Adapting
+L6_TPC_L1_cADpyr231_5 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 1 -- Continuous Adapting
+L6_TPC_L4_cADpyr231_1 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 4 -- Continuous Adapting
+L6_TPC_L4_cADpyr231_2 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 4 -- Continuous Adapting
+L6_TPC_L4_cADpyr231_3 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 4 -- Continuous Adapting
+L6_TPC_L4_cADpyr231_4 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 4 -- Continuous Adapting
+L6_TPC_L4_cADpyr231_5 ::: Layer 6 -- [e] Tufted Pyramidal c. with dendritic tuft terminating in layer 4 -- Continuous Adapting
+L6_UTPC_cADpyr231_1 ::: Layer 6 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L6_UTPC_cADpyr231_2 ::: Layer 6 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L6_UTPC_cADpyr231_3 ::: Layer 6 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L6_UTPC_cADpyr231_4 ::: Layer 6 -- [e] Untufted pyramidal c. -- Continuous Adapting
+L6_UTPC_cADpyr231_5 ::: Layer 6 -- [e] Untufted pyramidal c. -- Continuous Adapting
