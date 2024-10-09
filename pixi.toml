@@ -26,3 +26,4 @@ fzf = ">=0.55.0,<0.56"
 
 [pypi-dependencies]
 neuron = ">=8.2.4, <9"
+lfpy = ">=2.3.2, <3"
